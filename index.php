@@ -1,6 +1,6 @@
-<html> 
-     <head> 
-          <title> 
+<html>
+     <head>
+          <title>
               Search
           </title>
      </head>
